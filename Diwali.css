@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-container {
+    background-image: url("https://img.freepik.com/free-vector/pyrotechnics-fireworks-background-with-animation-black_1284-54175.jpg?w=1060&t=st=1671421916~exp=1671422516~hmac=38f95560195b7feff32e81d0ee34c1234b5ee99db4a18580ffa20ccaf1be07d8");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.banner {
+    color: white;
+    font-family: 'roboto';
+    margin-left: 20px;
+    font-style: italic;
+}
+
+.home-card-container {
+    background-color: #c9d4cc;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+.home-h {
+
+    font-size: 30px;
+    font-family: 'roboto';
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+.home-p {
+    font-family: "Sans-Serif";
+}
+
+.second {
+    background-color: black;
+
+}
+
+.second-pera {
+    color: #bccde8;
+}
+
+.second-heading {
+    color: white;
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: bold;
+}
+
+.third {
+    background-color: black;
+}
+
+.third-heading {
+    color: white;
+    text-align: center;
+    font-family: 'roboto';
+}
+
+.third-heading-middle {
+    color: white;
+    font-size: 30px;
+    font-family: 'roboto';
+}
+
+.third-p-middle {
+    color: #bccde8;
+}
+
+.fourth {
+    background-image: url("https://img.freepik.com/free-vector/happy-diwali-festival-firework-celebration_1017-21200.jpg?w=740&t=st=1671428314~exp=1671428914~hmac=88a6d65d61c6bc57d4860eadb38983653c7b5d48d5a869859bb9fff6e234b3b4");
+    height: 100vh;
+    width: 100vw;
+}
+
+.fourthheading {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Roboto';
+
+}
+
+.card {
+    background-color: black;
+    color: white;
+}
+
+.fifthHeading {
+    color: white;
+}
+
+.fourth {
+    background-image: url("https://img.freepik.com/free-vector/happy-diwali-festival-firework-celebration_1017-21200.jpg?w=740&t=st=1671428314~exp=1671428914~hmac=88a6d65d61c6bc57d4860eadb38983653c7b5d48d5a869859bb9fff6e234b3b4");
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.fifthHeading {
+    color: white;
+
+    padding-top: 200px;
+}
+
+.fifthp {
+    color: #b4bfb6;
+
+}
+
+.p {
+    color: #6e736f;
+}
+
+.fifthHeadingBottum {
+    color: white;
+
+    font-family: 'Comic Sans MS';
+}
